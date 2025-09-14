@@ -1,0 +1,12 @@
+torch
+transformers
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+peft
+evaluate
+datasets
+rouge
+rouge-score
